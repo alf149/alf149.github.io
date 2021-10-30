@@ -1,1 +1,15 @@
 theme: jekyll-theme-midnight
+
+# Site information
+title: Rolf's Blog
+email: rolf@amfelt.dk
+description: Some Stuff
+baseurl: ""
+url: "https://blog.amfelt.dk"
+
+# Site settings
+permalink: /:title/
+markdown: kramdown
+paginate: 5
+#paginate_path: "/:num/"
+date_format: "%b %-d, %Y"
