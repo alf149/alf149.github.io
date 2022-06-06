@@ -1,11 +1,11 @@
 theme: jekyll-theme-midnight
 
 # Site information
-title: Tand.amfelt.dk
-email: tand@amfelt.dk
-description: proteser
+title: Rolf's Blog
+email: rolf@amfelt.dk
+description: Some Stuff
 baseurl: ""
-url: "https://tand.amfelt.dk"
+url: "https://blog.amfelt.dk"
 
 # Site settings
 permalink: "/:title"
