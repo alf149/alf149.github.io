@@ -5,6 +5,7 @@ title: Rolf's Blog
 email: rolf@amfelt.dk
 description: Some Stuff
 baseurl: ""
+show_githublink: false
 url: "https://blog.amfelt.dk"
 
 # Site settings
